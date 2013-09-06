@@ -1,0 +1,9 @@
+[submodule "search-keyword"]
+	path = search-keyword
+	url = https://github.com/silverlinings/search-keyword.git
+[submodule "search-by-topic"]
+	path = search-by-topic
+	url = https://github.com/silverlinings/search-by-topic.git
+[submodule "retrieve-user-uploads"]
+	path = retrieve-user-uploads
+	url = https://github.com/silverlinings/retrieve-user-uploads.git
